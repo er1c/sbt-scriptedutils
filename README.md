@@ -2,6 +2,7 @@ sbt ScriptedPlugin Utils
 ========================
 
 [![Continuous Integration](https://github.com/er1c/sbt-scriptedutils/actions/workflows/ci.yml/badge.svg)](https://github.com/er1c/sbt-scriptedutils/actions/workflows/ci.yml)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.er1c/sbt-scriptedutils_2.12_1.0/badge.svg)](https://search.maven.org/search?q=g:io.github.er1c%20a:sbt-scriptedutils_2.12_1.0)
 
 Helpful utilities for writing scripted tests
 
