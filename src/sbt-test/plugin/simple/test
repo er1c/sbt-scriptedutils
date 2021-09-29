@@ -1,0 +1,8 @@
+> clean
+> compile
+# seen both "Done compiling" and "done compiling"
+> checkLogContains one compiling
+-> checkLogNotContains one compiling
+> clearLog
+> checkLogNotContains one compiling
+-> checkLogContains fooos
